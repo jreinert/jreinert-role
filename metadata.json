@@ -1,0 +1,14 @@
+{
+  "name": "jreinert-role",
+  "version": "0.1.0",
+  "author": "jreinert",
+  "summary": "roles for roles and profiles pattern",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jreinert/jreinert-role",
+  "project_page": "https://github.com/jreinert/jreinert-role",
+  "issues_url": "https://github.com/jreinert/jreinert-role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
